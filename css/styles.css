@@ -36,3 +36,22 @@
     width: 14px;
     height: 12.88px;
   }
+
+  .footer__link-btn {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #545454;
+    text-decoration: underline;
+    transition: color 300ms;
+    
+    &:hover,
+    :focus {
+      color: #ff6b08;
+    }
+  
+    @media (min-width: 768px) {
+      font-size: 16px;
+      line-height: 1.19;
+    }
+  }
