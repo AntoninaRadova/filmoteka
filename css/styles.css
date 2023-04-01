@@ -97,3 +97,22 @@ p {
     width: 19px;
     height: 17.88px;
   }
+
+.heart:after {
+  position: absolute;
+  content: '';
+  width: 14px;
+  height: 12.88px;
+  background: #ff6b08;
+  -moz-border-radius: 50px 50px 0 0;
+  -webkit-border-radius: 50px;
+  border-radius: 50px 50px 0 0;
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -moz-transform-origin: 0 100%;
+  -ms-transform-origin: 0 100%;
+  -webkit-transform-origin: 0 100%;
+  transform-origin: 0 100%;
+}
