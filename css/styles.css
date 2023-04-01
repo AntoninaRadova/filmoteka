@@ -91,3 +91,9 @@ p {
       line-height: 1.19;
     }
   }
+
+.heart {
+    position: relative;
+    width: 19px;
+    height: 17.88px;
+  }
