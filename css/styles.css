@@ -45,7 +45,7 @@ p {
     text-align: center;
   }
   
-  .footer__text {
+  .footer-text {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.14;
@@ -57,7 +57,7 @@ p {
     }
   }
   
-  .footer__content {
+  .footer-content {
     display: inline-block;
     margin-top: 10px;
   
@@ -66,14 +66,14 @@ p {
     }
   }
   
-  .footer__icon {
+  .footer-icon {
     margin-right: 10px;
     margin-left: 10px;
     width: 14px;
     height: 12.88px;
   }
 
-  .footer__link-btn {
+  .footer-link-btn {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.14;
