@@ -116,3 +116,13 @@ p {
   -webkit-transform-origin: 0 100%;
   transform-origin: 0 100%;
 }
+
+.show-crew-btn{
+    background-color: #f7f7f7;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #545454;
+}
