@@ -73,8 +73,12 @@ p {
     height: 12.88px;
   }
 
+.hidden-btn {
+  visibility: hidden;
+}
+
   .footer-link-btn {
-    visibility: hidden;
+/*     visibility: hidden; */
     font-weight: 400;
     font-size: 14px;
     line-height: 1.14;
